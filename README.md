@@ -1,2 +1,5 @@
 # hello-world
-just a repository
+
+hi Humans!
+
+Grant here, i like node.
